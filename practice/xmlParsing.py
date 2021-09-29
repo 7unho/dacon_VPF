@@ -20,8 +20,8 @@ from lxml import html
 from urllib.request import Request, urlopen
 from urllib.parse import urlencode, quote_plus, unquote
 
-# API_KEY = "XNTXmVmc9Q36vt3KQk87imSz0Gm%2BSZXzIBkja8mRQit9bIk9Ls5AZtxXb5DpRGUGApd%2B3MleLDJ%2F%2FnWwNJPSQg%3D%3D"
-API_KEY = "XNTXmVmc9Q36vt3KQk87imSz0Gm+SZXzIBkja8mRQit9bIk9Ls5AZtxXb5DpRGUGApd+3MleLDJ//nWwNJPSQg=="
+# API_KEY = ""
+API_KEY = ""
 
 url = 'http://apis.data.go.kr/1390802/AgriWeather/WeatherObsrInfo/GnrlWeather/getWeatherYearMonList'
 
