@@ -3,7 +3,7 @@ import json
 from urllib.request import urlopen
 from urllib.parse import urlencode, quote_plus
 
-API_KEY = "591CFAAA0904442CB79733952A186D5E"
+API_KEY = ""
 
 url = "https://at.agromarket.kr/openApi/price/sale.do"
 
